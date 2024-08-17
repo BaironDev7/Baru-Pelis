@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{
+    font-family: "Cabin-Simple";
+    src: url("Fonts/Cabin_Condensed-Medium.ttf");
+}
+
+@font-face{
+    font-family: "Cabin-Bold";
+    src: url("Fonts/Cabin_Condensed-Bold.ttf");
+}
